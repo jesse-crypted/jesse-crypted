@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesse-crypted
-- 👀 I’m interested in ...javascript flutter fintech user experience/interface design
-- 🌱 I’m currently learning ...Web development
+- 👀 I’m interested in ...devOps, web develoment and blockchain technology
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...Open source collaborations
 - 📫 How to reach me ...
 
