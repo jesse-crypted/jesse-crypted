@@ -1,8 +1,8 @@
 **Hi, I’m Jesse Oluwadare 👋**
 
-- 👀 I’m interested in ...devOps, web develoment and blockchain technology
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...Open source collaborations
+- 👀 I’m a backend developer interested in learning new technologies such as AR, Vue frontend tech and flutter.
+- 🌱 I’m currently building backend projects with Node.js, express, mongoDB, MySql etc
+- 💞️ I’m looking to collaborate on Open source and internship opportunities
 - 📫 How to reach me ...
 
 <!---
