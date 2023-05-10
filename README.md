@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jesse-crypted
+**Hi, I’m Jesse Oluwadare 👋**
+
 - 👀 I’m interested in ...devOps, web develoment and blockchain technology
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...Open source collaborations
