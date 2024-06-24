@@ -1,7 +1,7 @@
 **Hi, I’m Jesse Oluwadare 👋**
 
-- 👀 I’m a backend developer interested in learning new technologies such as AR, Vue frontend tech and flutter.
-- 🌱 I’m currently building backend projects with Node.js, express, mongoDB, MySql etc
+- 👀 I’m a mobile developer interested in cloud computing and AI.
+- 🌱 I’m currently learning about cloud computing with AWS
 - 💞️ I’m looking to collaborate on Open source and internship opportunities
 - 📫 How to reach me ...
 
