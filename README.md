@@ -1,11 +1,30 @@
-**Hi, I’m Jesse Oluwadare 👋**
+# Hi, I’m Jesse Oluwadare 👋
 
-- 👀 I’m a mobile developer interested in cloud computing and AI.
-- 🌱 I’m currently learning about cloud computing with AWS
-- 💞️ I’m looking to collaborate on Open source and internship opportunities
-- 📫 How to reach me ...
+🚀 I'm a **Mobile Developer** passionate about creating user-friendly apps using **Flutter**  
+☁️ I’m deeply exploring **Cloud Engineering**, focusing on **AI and Automation in Cloud Management**  
+🧠 Interested in how **AI**, **DevOps**, and **Cloud** intersect to streamline infrastructure  
+📱 Building apps that solve real-life problems — currently working on a **maternal health app**
 
-<!---
-jesse-crypted/jesse-crypted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌱 Currently Learning
+- **AWS Cloud & DevOps workflows**
+- **AI-powered cloud automation**
+
+---
+
+### 💼 Open to Collaborations
+- Internships, Open Source, or Projects in:
+  - Mobile Development
+  - Cloud Platforms (AWS, GCP, Azure)
+  - AI-driven Automation in DevOps
+---
+
+### 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/jesse-oluwadare-74630b2a7/)
+- 🐦 [Twitter](https://twitter.com/jessedare_)
+- 💌 Email: jesseolatunjioluwadare@gmail.com
+- 💻 GitHub: [@jesse-crypted](https://github.com/jesse-crypted)
+
+
+
